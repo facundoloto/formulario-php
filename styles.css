@@ -1,0 +1,6 @@
+.formulario{
+display:grid;
+grid-template-columns:1fr;
+grid-gap:0;
+background-color:red;
+}
